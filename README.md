@@ -1,5 +1,5 @@
-
 # Moodent
+
 Greetings to the readers! This is an interactive videoconferencing web app that is  named "Moodent". It is used to deliver a platform to the user in which one can easily communicate, share content, hold meetings/classes, chat with groups all around. 
 
 
@@ -85,4 +85,3 @@ Link: will come soon
 * `Share` this unique link with your friends with whom you want to talk. They can open the link in browser.
 * Or they may paste the link in "Enter the meeting link here" input and then click on "Join Meeting"
 
-video:https://s3.amazonaws.com/embed.animoto.com/play.html?w=swf/production/vp1&e=1629787732&f=0q6lUrtkNtU6jMH1u0sbMQ&d=0&m=p&r=360p+480p+720p&volume=100&start_res=720p&i=m&asset_domain=s3-p.animoto.com&animoto_domain=animoto.com&options=autostart
